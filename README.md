@@ -8,6 +8,9 @@
 
 # 🏆 GitHub Trophy:
 ![](https://github-trophies.vercel.app/?username=lunacollab&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+# 🔥 LeetCode Stats:
+![](https://leetcard.jacoblin.cool/phuocvo?theme=dark&font=Baloo%202&ext=heatmap)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
