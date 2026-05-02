@@ -53,7 +53,7 @@ Developer me = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lunacollab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&bg_color=00000000" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lunacollab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&bg_color=00000000" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lunacollab&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=adbac7&bg_color=00000000" height="170" />
 
