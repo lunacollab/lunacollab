@@ -55,7 +55,7 @@ Developer me = {
 
 <img src="https://streak-stats.demolab.com?user=lunacollab&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=adbac7&sideLabels=adbac7&dates=adbac7&currStreakNum=ffffff&sideNums=ffffff" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lunacollab&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=adbac7&bg_color=00000000&langs_count=6" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lunacollab&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=adbac7&bg_color=00000000&langs_count=4&hide=CSS,JavaScript,SCSS,HTML,TypeScript,Makefile,Shell,PowerShell,Vue,Python,Ruby,Go,Rust,Java,Kotlin,Swift,Dart,PHP" height="170" />
 
 </div>
 
