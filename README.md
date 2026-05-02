@@ -53,9 +53,9 @@ Developer me = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lunacollab&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lunacollab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&bg_color=00000000" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunacollab&theme=transparent&hide_border=true&layout=compact&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lunacollab&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=adbac7&bg_color=00000000" height="170" />
 
 </div>
 
@@ -65,7 +65,7 @@ Developer me = {
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=lunacollab&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=lunacollab&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=6" />
 
 </div>
 
@@ -75,7 +75,7 @@ Developer me = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
@@ -83,7 +83,7 @@ Developer me = {
 
 <div align="right">
 
-![Visitors](https://visitcount.itsvg.in/api?id=lunacollab&icon=5&color=0)
+<img src="https://komarev.com/ghpvc/?username=lunacollab&style=flat-square&color=58a6ff&label=VISITORS" />
 
 *`// EOF`*
 
