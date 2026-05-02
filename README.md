@@ -85,6 +85,6 @@ Developer me = {
 
 <img src="https://komarev.com/ghpvc/?username=lunacollab&style=flat-square&color=58a6ff&label=VISITORS" />
 
-*`// EOF`*
+
 
 </div>
